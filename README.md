@@ -15,4 +15,8 @@ Scene 3D interaktif bertema kedai kopi ("Jejari Kopi"). Terdapat 5 objek 3D deng
 5. Klik kiri pada objek untuk membesarkan ukuran dan melihat informasi objek di pojok kiri atas.
 
 ## Screenshot
-![Screenshot Scene](teksturemeja.jpg)
+**Tampilan Normal:**
+![Normal](hasilss.png)
+
+**Tampilan Saat Objek Diklik:**
+![Diklik](objekdiklik.png)
